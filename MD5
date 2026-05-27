@@ -1,7 +1,7 @@
-19beb77ed5d29610df5c92571ea9ee28 *DESCRIPTION
+87271afc2690e94ae7e6346cae01e1b4 *DESCRIPTION
 757df941727fd3ce594696aceeb9c692 *NAMESPACE
-dc1575150633d5880b0e43f745310016 *NEWS.md
-f6a12d13b38122a487e39eb746e99490 *R/MFItoRAU.R
+262768be3f620da07a9f3ea919a6802f *NEWS.md
+fd3afdf697087fd7e546a09ba799b63f *R/MFItoRAU.R
 9d524853e4792ccd0d625327cd5a36b3 *R/SeroTrackR-package.R
 d058120850e85ae864d8c00ab0ae2276 *R/classifyResults.R
 d5c2f83e9f5574af7299fddcc5bb512a *R/data-documentation.R
@@ -20,7 +20,7 @@ c354fab9c8ca8255ef2cbceb7545d1d9 *R/plotModel.R
 d2d05a521a9fd5f18f6f6fe09feba2df *R/plotStds.R
 4203bdc8c06475ef31e56fe197b8a0d5 *R/processPkPfPv.R
 d21b724771280299ed8994482b33d0bc *R/readPlateLayout.R
-4a299330cc88b85fea34a1ccaa0ab799 *R/readSeroData.R
+faf038e3c27403cbd81060c47f645a63 *R/readSeroData.R
 3ff4207d85124734981adc98128dbe09 *R/renderClassificationTable.R
 ffcba294d581fe7d924c4025e24473fb *R/renderDetailsList.R
 0b3f623e02ca36b047a0d77ed048750c *R/renderQCReport.R
