@@ -17,14 +17,6 @@ setup <- function() {
 setup()
 library(SeroTrackR)
 
-knitr::opts_chunk$set(
-  dpi = 72
-)
-
-knitr::opts_chunk$set(
-  dpi = 72
-)
-
 ## ----setup 1------------------------------------------------------------------
 library(SeroTrackR)
 library(tidyverse)

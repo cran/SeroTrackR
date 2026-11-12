@@ -6,6 +6,8 @@
 \alias{SeroTrackR-package}
 \title{SeroTrackR: Serology-Based Data Analysis and Visualization}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 Data wrangling and cleaning, quality control checks and implementation of machine learning classification algorithm.
 }
 \seealso{
@@ -13,16 +15,28 @@ Useful links:
 \itemize{
   \item \url{https://github.com/dionnecargy/SeroTrackR}
   \item \url{https://dionnecargy.github.io/SeroTrackR/}
+  \item \url{https://vispa-malaria.github.io/sero-analysis/}
   \item Report bugs at \url{https://github.com/dionnecargy/SeroTrackR/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Dionne Argyropoulos \email{argyropoulos.d@wehi.edu.au}
+\strong{Maintainer}: Dionne Argyropoulos, PhD \email{argyropoulos.d@wehi.edu.au} (\href{https://orcid.org/0000-0002-8068-0215}{ORCID})
 
 Authors:
 \itemize{
-  \item Dionne Argyropoulos \email{argyropoulos.d@wehi.edu.au}
+  \item Dionne Argyropoulos, PhD \email{argyropoulos.d@wehi.edu.au} (\href{https://orcid.org/0000-0002-8068-0215}{ORCID})
+  \item Eamon Conway, PhD
+  \item Caitlin Bourke, PhD
+  \item Connie Li-Wai-Suen, PhD
+  \item Shazia Ruybal-Pesántez, PhD
+  \item Lauren Smith, PhD
+}
+
+Other contributors:
+\itemize{
+  \item Ivo Mueller, PhD [contributor]
+  \item Rhea Longley, DPhil [contributor]
 }
 
 }
